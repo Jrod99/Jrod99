@@ -4,6 +4,6 @@ Learning Path
 - [ ] AZ-104: Azure Administrator Associate
 - [ ] AZ-500: Azure Security Engineer Associate
 - [ ] PowerShell: Basic scripting
-- [ ] KQL: Basic to intermediary queries
+- [ ] KQL: Intermediate queries
 - [ ] Python: Fundamentals of programing
 - [ ] CISSP: Certified Information Systems Security Professional
